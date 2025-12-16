@@ -1,7 +1,7 @@
 # 🎮 GamesTC - Otimização de Rede para Gamers
 
 <p align="center">
-  <img src="https://gamestc.app/logo.png" alt="GamesTC Logo" width="120"/>
+  <img src="https://www.gamestc.app/assets/gtc-logo-D70HSVwF.png" alt="GamesTC Logo" width="120"/>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ O GamesTC utiliza tecnologia de tunelamento seguro para otimizar sua conexão. S
 
 ## 📞 Suporte
 
-- **Discord:** [discord.gg/gamestc](https://discord.gg/gamestc)
+- **Discord:** [discord.gg/gamestc](https://discord.gg/PjE6V9U5Xr)
 - **Site:** [gamestc.app](https://gamestc.app)
 - **Email:** suporte@gamestc.app
 
